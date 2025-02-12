@@ -1,6 +1,6 @@
 # 🌦 Weather App
 
-A simple and interactive weather application that provides real-time weather updates for any city. It fetches weather data using the **Tomorrow.io API**.
+A simple and interactive weather application that provides real-time weather updates for any city. It fetches weather data using the **Open-Meteo API**.
 
 ## 🚀 Features
 
@@ -13,8 +13,7 @@ A simple and interactive weather application that provides real-time weather upd
 
 - **HTML, CSS, JavaScript**
 - **Axios** for API requests
-- **Tomorrow.io API** for weather data
-- **Open-Meteo API** for geolocation
+- **Open-Meteo API** for weather and geolocation data
 
 ## 🎯 How to Use
 
